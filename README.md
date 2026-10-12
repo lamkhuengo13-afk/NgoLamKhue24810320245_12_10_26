@@ -2,9 +2,13 @@
 ## THÔNG TIN SINH VIÊN
 
 **Họ và tên:** Ngô Lam Khuê
+
 **Mã số sinh viên:** 24810320245
+
 **Lớp:** D19QTANM1
+
 **Tên môn học:** Lập trình C# / Windows Forms
+
 **Tên bài tập:** Bài thực hành 4.6 4.7 4. 8
 
 
@@ -30,19 +34,11 @@
 ### Bài tập 4.7
 #### 1. Ảnh màn hình Giao diện chính
 
-![Giao diện chính](./screenshots/main_ui.png)
-
-
+<img width="803" height="495" alt="Ảnh chụp màn hình 2026-10-12 155731" src="https://github.com/user-attachments/assets/c39b8fc1-6fb3-4d09-883f-06d4e758453d" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 
-![Thực thi chức năng](./screenshots/execution_result.png)
-
-
-
-#### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-
-![Kiểm tra lỗi](./screenshots/validation_error.png) 
+<img width="842" height="607" alt="Ảnh chụp màn hình 2026-10-12 155741" src="https://github.com/user-attachments/assets/4a4b538d-1685-4f55-8e68-f7b87c6882a3" />
 
 ### Bài tập 4.8
 #### 1. Ảnh màn hình Giao diện chính
