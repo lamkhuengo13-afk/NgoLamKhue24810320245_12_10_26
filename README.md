@@ -43,15 +43,11 @@
 ### Bài tập 4.8
 #### 1. Ảnh màn hình Giao diện chính
 
-![Giao diện chính](./screenshots/main_ui.png)
-
-
+<img width="798" height="487" alt="image" src="https://github.com/user-attachments/assets/2a5493e2-1cb6-40fe-8934-aae6fce0fa7d" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 
-![Thực thi chức năng](./screenshots/execution_result.png)
-
-
+<img width="795" height="482" alt="image" src="https://github.com/user-attachments/assets/86eefe19-1e54-4b9e-a286-ecdc37f33c5a" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 
